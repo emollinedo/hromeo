@@ -1,2 +1,2 @@
 # PRUEBA1
-la resistencia
+la resistencia 00000
